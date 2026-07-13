@@ -1,9 +1,43 @@
-vpshameem348-lab/README.md
-Hi 👋, I'm Mohammed shemeem
-Aspiring Data Analyst & Data Scientist passionate about transforming data into meaningful insights.
+# Hi 👋, I'm Mohammed Shemeem
 
-Skills
-🐍 Python 🗄 SQL 📊 Power BI 📈 Tableau 🤖 Machine Learning 📉 Statistics 📋 Excel
+### Aspiring AI & Data Science Engineer passionate about building real-world AI solutions.
 
-Featured Projects
-🔹 Customer Sentiment Analysis 🔹 Electricity Demand Forecasting 🔹 Sales Dashboard (Power BI) 🔹 Face Mask Detection using Deep Learning 🔹 Image Classification using MobileNetV2
+---
+
+## 🚀 Skills
+
+🐍 Python | 🗄 SQL | 📊 Power BI | 📈 Tableau | 🤖 Machine Learning | 🧠 Deep Learning | 📋 Excel | 📊 Statistics | 🌐 Streamlit
+
+---
+
+## 📂 Featured Projects
+
+🔹 ArthVaani – AI Powered Inflation Forecasting System
+
+🔹 Payment Fraud Detection System
+
+🔹 Customer Churn Prediction
+
+🔹 Vehicle Damage Detection using CNN
+
+🔹 Customer Sentiment Analysis
+
+🔹 AI Mini Projects
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Generative AI
+- Data Analytics
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/shameem348-lab
+- LinkedIn: *(Add your LinkedIn link here)*
+
+⭐ Thanks for visiting my profile!
