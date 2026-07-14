@@ -12,15 +12,11 @@
 
 ## 📂 Featured Projects
 
-🔹 ArthVaani – AI Powered Inflation Forecasting System
-
-🔹 Payment Fraud Detection System
-
-🔹 Customer Churn Prediction
+🔹 Data science 
 
 🔹 Vehicle Damage Detection using CNN
 
-🔹 Customer Sentiment Analysis
+🔹 Transfer learning 
 
 🔹 AI Mini Projects
 
