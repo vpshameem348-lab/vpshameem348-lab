@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+Artificial+Intelligence;Python+Developer+%7C+Data+Analytics;Building+AI-Powered+Solutions;Open+to+Internships+%26+Full-Time+Opportunities" alt="Typing SVG" />
 
 <p>
-  <a href="https://linkedin.com/in/muhammedfazal786">
+  <a href="https://linkedin.com/in/mohammed shemeem">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
@@ -122,11 +122,11 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammedfazal786&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vpshameem348-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedfazal786&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpshameem348-lab&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedfazal786&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vpshameem348-lab&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammedfazal786&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vpshameem348-lab&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedfazal786&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vpshameem348-lab&theme=tokyo-night&hide_border=true"/
 
 </div>
 
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/muhammedfazal786/muhammedfazal786/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/vpshameem348-lab/vpshameem348-lab/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
